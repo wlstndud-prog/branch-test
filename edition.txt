@@ -3,5 +3,3 @@ second edition
 third edition
 issue resolved
 hotfix my solution
-Hotfix team's solution
-web conflict line
